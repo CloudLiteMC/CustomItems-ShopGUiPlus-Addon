@@ -1,0 +1,7 @@
+name: CustomItemProvider
+version: 1.0.0
+main: net.cloudlite.plugin.PluginAddon
+api-version: "1.16"
+authors: [DaltonBurchard]
+description: Adds functionality for ShopGUI+ to sell/buy CustomItems items!
+depend: ["ShopGUIPlus"]
