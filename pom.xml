@@ -61,12 +61,6 @@
             <url>https://papermc.io/repo/repository/maven-public/</url>
         </repository>
 
-        <!-- CloudliteAPI Repo -->
-        <repository>
-            <id>myMavenRepo</id>
-            <url>https://mymavenrepo.com/repo/6tqsGLhzNh3Olqz5jnvg/</url>
-        </repository>
-
         <!-- Jitpack got github repos -->
         <repository>
             <id>jitpack.io</id>
