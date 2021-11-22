@@ -1,7 +1,6 @@
-***DISCALIMER*** *"Oh wow nice job leaking CustomItems plugin"* Stop it, before you even try saying this, the jar included with this source code is publicly available on the CustomItems [Github page](https://github.com/jojodmo/CustomItems/blob/master/API/CustomItemsAPI_PLACEHOLDER.jar) it is simply included with source code to make it easier if someone else wants to make a commit on this.
+***CustomItems support has been added for ShopGUI+, I was late archiving this repo but I will do it now***
 
-***DISCLAIMER PT 2*** This is only a ***TEMPORARY*** fix! The developer of ShopGUI+ Does intend to add CustomItem's functionality; but for now this is a viable option as 
-uses ShopGUI+'s ItemProvider class
+***DISCALIMER*** *"Oh wow nice job leaking CustomItems plugin"* Stop it, before you even try saying this, the jar included with this source code is publicly available on the CustomItems [Github page](https://github.com/jojodmo/CustomItems/blob/master/API/CustomItemsAPI_PLACEHOLDER.jar) it is simply included with source code to make it easier if someone else wants to make a commit on this.
 
 
 # How do i use this?
